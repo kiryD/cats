@@ -1,0 +1,47 @@
+* {
+    font-family: "Chiron GoRound TC", sans-serif;   
+    color: #d2d4d2;
+}
+header {
+    background: #838181;
+    color: #fff;
+    padding: 20px 20px;
+    text-align: center;
+    border-radius: 10px;
+    font-size: 150%;
+    margin-bottom: 20px;
+}
+section {
+    margin-bottom: 40px;
+}
+canvas {
+    position: absolute;
+    display: block;
+    margin-top: -10px;
+    margin-left: -10px;
+    z-index: -1;
+}
+body {
+    background-color: #33373a;
+}
+body::-webkit-scrollbar {
+    display: none;
+}
+.textlist {
+    background-color: #24282a;
+    border-radius: 10px;
+    margin-left: 10%;
+    margin-right: 10%;
+    padding: 5px;
+}
+footer {
+    text-align: center;
+    padding: 20px;
+    margin-top: 40px;
+    background: #8f8f8f81;
+    color: #e9e9e9;
+}
+.fit-picture {
+    width: 24%;
+    border-radius: 10px;
+}
